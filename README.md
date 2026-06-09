@@ -228,7 +228,21 @@
 
 | SL | Question | Solution |
 |:--:|:---------|:--------:|
-| 01 | Simple Calculator Project | [Solution](cse-1115-object-oriented-programming-java/graphical-user-interfaces-problems/01_Simple_Calculator_Project.java) |
-| 02 | Simple Login Form | [Solution](cse-1115-object-oriented-programming-java/graphical-user-interfaces-problems/02_Simple_Login_Form.java) |
-| 03 | Custom Calculator App | [Solution](cse-1115-object-oriented-programming-java/graphical-user-interfaces-problems/03_Custom_Calculator_App.java) |
-| 04 | Counter Application | [Solution](cse-1115-object-oriented-programming-java/graphical-user-interfaces-problems/04_Counter_Application.java) |
+| 01 | Simple Calculator Project | [Solution](cse-1115-object-oriented-programming-java/graphical-user-interfaces/button-handling/AdditionCalculator.java) |
+| 02 | Simple Login Form | [Solution](cse-1115-object-oriented-programming-java/graphical-user-interfaces/design/LoginPage.java) |
+| 03 | Custom Calculator App | [Solution](cse-1115-object-oriented-programming-java/graphical-user-interfaces/design/AbsoluteLayoutDemo.java) |
+| 04 | Counter Application | [Solution](cse-1115-object-oriented-programming-java/graphical-user-interfaces/design/CheckBoxDemo.java) |
+
+### Lab Practice & Concepts Inventory
+
+| Concept / Component | File Path |
+|:---|:---|
+| **JFrame Windows** | [JFrameBasics.java.java](cse-1115-object-oriented-programming-java/graphical-user-interfaces/design/JFrameBasics.java.java) |
+| **Font Customization** | [SwingFontBasics.java](cse-1115-object-oriented-programming-java/graphical-user-interfaces/design/SwingFontBasics.java) |
+| **Flow Layout Manager** | [FlowLayoutDemo.java](cse-1115-object-oriented-programming-java/graphical-user-interfaces/design/FlowLayoutDemo.java) |
+| **Form Data Input Fields** | [DualTextFieldForm.java](cse-1115-object-oriented-programming-java/graphical-user-interfaces/design/DualTextFieldForm.java) |
+| **Event Listener Basics** | [ActionEventListenerDemo.java.java](cse-1115-object-oriented-programming-java/graphical-user-interfaces/button-handling/ActionEventListenerDemo.java.java) |
+| **Background Color Switcher** | [ChangeBackgroundColor.java](cse-1115-object-oriented-programming-java/graphical-user-interfaces/button-handling/ChangeBackgroundColor.java) |
+| **Alternative Event Routing** | [changeBackgroundColorWithDifferentApproach.java](cse-1115-object-oriented-programming-java/graphical-user-interfaces/button-handling/changeBackgroundColorWithDifferentApproach.java) |
+| **File I/O: Data Entry** | [inputUsingFile.java](cse-1115-object-oriented-programming-java/graphical-user-interfaces/button-handling/file/inputUsingFile.java) |
+| **File I/O: Data View** | [outputUsingFile.java](cse-1115-object-oriented-programming-java/graphical-user-interfaces/button-handling/file/outputUsingFile.java) |
